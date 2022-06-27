@@ -1,0 +1,1 @@
+This is my first document to Git and trying out all the commands
